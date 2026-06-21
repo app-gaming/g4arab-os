@@ -1,0 +1,6 @@
+{
+  "name": "G4Arab OS",
+  "description": "High-fidelity dual-language AI Terminal & Media Management Console for advanced content pipeline orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
